@@ -1,0 +1,19 @@
+{
+  "name": "p1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "type": "module",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "knex": "^0.95.14",
+    "mysql": "^2.18.1",
+    "ndoe": "^0.0.0",
+    "node": "^17.2.0"
+  }
+}
